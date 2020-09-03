@@ -1,0 +1,467 @@
+fileFormatVersion: 2
+guid: 828917871056843cfa5da55ca813cc69
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7442081229618942130
+    second: MainCharacterCrouch1_0
+  - first:
+      213: 2645610627270469955
+    second: MainCharacterCrouch1_1
+  - first:
+      213: -5027867308177706955
+    second: MainCharacterCrouch1_2
+  - first:
+      213: 2198650890095717705
+    second: MainCharacterCrouch1_3
+  - first:
+      213: 3943348059852646449
+    second: MainCharacterCrouch1_4
+  - first:
+      213: 8775954669996757586
+    second: MainCharacterCrouch1_5
+  - first:
+      213: -3289223250013804433
+    second: MainCharacterCrouch1_6
+  - first:
+      213: 8067270923313148765
+    second: MainCharacterCrouch1_7
+  - first:
+      213: 5005435805888955383
+    second: MainCharacterCrouch1_8
+  - first:
+      213: 1511720553214525764
+    second: MainCharacterCrouch1_9
+  - first:
+      213: 594284234305180684
+    second: MainCharacterCrouch1_10
+  - first:
+      213: -5407430717521752249
+    second: MainCharacterCrouch1_11
+  - first:
+      213: 4932111534810986291
+    second: MainCharacterCrouch1_12
+  - first:
+      213: 5038694904495340519
+    second: MainCharacterCrouch1_0
+  - first:
+      213: -4524035025584894766
+    second: MainCharacterCrouch1_1
+  - first:
+      213: 6046516508034398367
+    second: MainCharacterCrouch1_2
+  - first:
+      213: -1337227576064911811
+    second: MainCharacterCrouch1_3
+  - first:
+      213: -2678152469366058316
+    second: MainCharacterCrouch1_4
+  - first:
+      213: -1743481767340926776
+    second: MainCharacterCrouch1_5
+  - first:
+      213: 7810912219725162486
+    second: MainCharacterCrouch1_6
+  - first:
+      213: -7925769302936406866
+    second: MainCharacterCrouch1_7
+  - first:
+      213: -8598296855933357955
+    second: MainCharacterCrouch1_8
+  - first:
+      213: 1753236065020860223
+    second: MainCharacterCrouch1_9
+  - first:
+      213: -4167087790777438010
+    second: MainCharacterCrouch1_10
+  - first:
+      213: -1218970146675076975
+    second: MainCharacterCrouch1_11
+  - first:
+      213: 8691021236769294084
+    second: MainCharacterCrouch1_12
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MainCharacterCrouch1_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ebf30ac15a0de540800000000000000
+      internalID: 5038694904495340519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCharacterCrouch1_1
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 16
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc46941d166731c0800000000000000
+      internalID: -4524035025584894766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCharacterCrouch1_2
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 16
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f98fced6aba89e350800000000000000
+      internalID: 6046516508034398367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCharacterCrouch1_3
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 16
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d365bc0ca96317de0800000000000000
+      internalID: -1337227576064911811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCharacterCrouch1_4
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 16
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2d911c48a45dad0800000000000000
+      internalID: -2678152469366058316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCharacterCrouch1_5
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 33
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c81649e198edc7e0800000000000000
+      internalID: -1743481767340926776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCharacterCrouch1_6
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 16
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7e974a74fe56c60800000000000000
+      internalID: 7810912219725162486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCharacterCrouch1_7
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 29
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4b7cebfc2020290800000000000000
+      internalID: -7925769302936406866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCharacterCrouch1_8
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 16
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70fbb4b096bca880800000000000000
+      internalID: -8598296855933357955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCharacterCrouch1_9
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 23
+        width: 13
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37d8fe79eeb45810800000000000000
+      internalID: 1753236065020860223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCharacterCrouch1_10
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 16
+        width: 56
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0f7d28bb78b26c0800000000000000
+      internalID: -4167087790777438010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCharacterCrouch1_11
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 16
+        width: 53
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19050a72c19551fe0800000000000000
+      internalID: -1218970146675076975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MainCharacterCrouch1_12
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 16
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407820194c5bc9870800000000000000
+      internalID: 8691021236769294084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
